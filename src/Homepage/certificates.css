@@ -1,0 +1,41 @@
+#c_row{
+    display: flex;
+    flex-direction: row;
+    background-image: url("D:\myportfolio\src\images\bgp.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+#cdata{
+    display: flex;
+    flex-direction: column;
+    overflow-y: auto;
+    overflow-x: auto;
+    width: 100vw;
+    height: 98vh;
+}
+
+#particular_row{
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+}
+
+
+
+#cer_image{
+    width: 320px;
+    height: 165px;
+    margin-right: 15px;
+    border: 1px solid brown;
+    border-radius: 5px;
+    padding: 3px;
+}
+#cer_image:hover{
+    width: 450px;
+    height: 250px;
+    border: 1px solid brown;
+    padding: 2px;
+}
+

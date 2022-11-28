@@ -1,0 +1,96 @@
+
+#homepage{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+#homepage:hover{
+    cursor:default;
+}
+
+#infonavbar{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: space-around; */
+    background-color: #fffbf8;
+    width: 250px;
+    height: 96vh;
+    padding: 10px;
+    
+}
+
+#image{
+    height: 150px;
+    width: 150px;
+    margin-left: 36px;
+    
+}
+#imgblock{
+    margin: 5px;
+    padding: 10px;
+}
+
+#name{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+#tagline{
+    text-align: center;
+    font-size: 15px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+#soft{
+color: blue;
+}
+
+
+.infolinksnav{
+    /* background-color: white; */
+    padding-top: 10px;
+    margin-top: 30px;
+    margin-left: 25px;
+    margin-right: 25px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#linkbut{
+    color: darkred;
+    font-size: small;
+    margin: 10px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+#linkbut:hover{
+    color: blue;
+    cursor: pointer;
+}
+
+
+
+#copyrightsection{
+    text-align: center;
+    /* margin-top: 20px; */
+    margin-top: 32px;
+    /* border: 2px solid wheat; */
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+

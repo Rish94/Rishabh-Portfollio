@@ -1,0 +1,44 @@
+#row1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-image: url("D:\myportfolio\src\images\bg.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+
+
+#personal{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 60px;
+    padding-top: 270px;
+    text-align: start;
+}
+
+
+#dev{
+    color: brown;
+}
+
+#viewportfolio{
+    background-color: white;
+    padding: 3px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    margin-left: 10px;
+   
+}
+#viewportfolio:hover{
+    border: 1px solid red;
+}
+
+#myimage{
+    padding-top: 10px;
+    height: 94vh;
+    width: 30vw;
+}

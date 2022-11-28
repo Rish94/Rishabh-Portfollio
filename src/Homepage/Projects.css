@@ -1,0 +1,51 @@
+#row{
+    display: flex;
+    flex-direction: row;
+    background-image: url("D:\myportfolio\src\images\bgp.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+#projectsdata{
+    margin-left: 50px;
+    margin-top: 30px;
+    height: 92vh;
+    overflow-y: auto;
+    overflow-x: auto;
+    width: 100vw;
+    
+}
+#hr{
+    margin-right: 250px;
+}
+
+
+
+#pt-heading{
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+}
+ 
+#ppost{
+    color: darkgreen;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+#details{
+    color: rgb(0, 0, 112);
+    font-weight: bold;
+}
+
+#projectlink{
+    color: brown;
+    font-style: italic;
+}
+
+#projectlink:hover{
+    color: red;
+    border: 1px dotted brown;
+    padding: 5px;
+}

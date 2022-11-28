@@ -1,0 +1,107 @@
+[debug] [2022-11-28T20:15:10.251Z] ----------------------------------------------------------------------
+[debug] [2022-11-28T20:15:10.253Z] Command:       D:\Full Stack\node.exe C:\Users\user\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-11-28T20:15:10.253Z] CLI Version:   11.16.1
+[debug] [2022-11-28T20:15:10.253Z] Platform:      win32
+[debug] [2022-11-28T20:15:10.253Z] Node Version:  v18.8.0
+[debug] [2022-11-28T20:15:10.254Z] Time:          Tue Nov 29 2022 01:45:10 GMT+0530 (India Standard Time)
+[debug] [2022-11-28T20:15:10.254Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-11-28T20:15:10.324Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-11-28T20:15:10.325Z] > authorizing via signed-in user (rishaba949@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\MyPorfollio\myportfollioreact
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-11-28T20:15:17.288Z] Using project from CLI flag: myportfollio-b93ab
+[debug] [2022-11-28T20:15:17.290Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/myportfollio-b93ab [none]
+[debug] [2022-11-28T20:15:18.105Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/myportfollio-b93ab 200
+[debug] [2022-11-28T20:15:18.105Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/myportfollio-b93ab {"projectId":"myportfollio-b93ab","projectNumber":"809540173685","displayName":"MyPortfollio","name":"projects/myportfollio-b93ab","resources":{"hostingSite":"myportfollio-b93ab"},"state":"ACTIVE","etag":"1_c7b4c89e-742f-4e59-980e-f3c6735b6964"}
+[info] i  Using project myportfollio-b93ab (MyPortfollio) 
+[info] 
+=== Hosting:github Setup
+[info] 
+[info] i  Didn't detect a .git folder. Assuming D:\MyPorfollio\myportfollioreact is the project root. 
+[info] i  Authorizing with GitHub to upload your service account to a GitHub repository's secrets store. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://github.com/login/oauth/authorize?client_id=89cf50f02ac6aaed3484&state=562636061&redirect_uri=http%3A%2F%2Flocalhost%3A9005&scope=read%3Auser%20repo%20public_repo
+[info] 
+[info] Waiting for authentication...
+[debug] [2022-11-28T20:16:42.600Z] ----------------------------------------------------------------------
+[debug] [2022-11-28T20:16:42.602Z] Command:       D:\Full Stack\node.exe C:\Users\user\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-11-28T20:16:42.602Z] CLI Version:   11.16.1
+[debug] [2022-11-28T20:16:42.602Z] Platform:      win32
+[debug] [2022-11-28T20:16:42.602Z] Node Version:  v18.8.0
+[debug] [2022-11-28T20:16:42.603Z] Time:          Tue Nov 29 2022 01:46:42 GMT+0530 (India Standard Time)
+[debug] [2022-11-28T20:16:42.603Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-11-28T20:16:42.670Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-11-28T20:16:42.688Z] > authorizing via signed-in user (rishaba949@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\MyPorfollio\myportfollioreact
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-11-28T20:16:48.891Z] Using project from CLI flag: myportfollio-b93ab
+[debug] [2022-11-28T20:16:48.893Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects/myportfollio-b93ab [none]
+[debug] [2022-11-28T20:16:49.606Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects/myportfollio-b93ab 200
+[debug] [2022-11-28T20:16:49.607Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects/myportfollio-b93ab {"projectId":"myportfollio-b93ab","projectNumber":"809540173685","displayName":"MyPortfollio","name":"projects/myportfollio-b93ab","resources":{"hostingSite":"myportfollio-b93ab"},"state":"ACTIVE","etag":"1_c7b4c89e-742f-4e59-980e-f3c6735b6964"}
+[info] i  Using project myportfollio-b93ab (MyPortfollio) 
+[info] 
+=== Hosting:github Setup
+[info] 
+[info] i  Didn't detect a .git folder. Assuming D:\MyPorfollio\myportfollioreact is the project root. 
+[info] i  Authorizing with GitHub to upload your service account to a GitHub repository's secrets store. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://github.com/login/oauth/authorize?client_id=89cf50f02ac6aaed3484&state=273195663&redirect_uri=http%3A%2F%2Flocalhost%3A9005&scope=read%3Auser%20repo%20public_repo
+[info] 
+[info] Waiting for authentication...
+[debug] [2022-11-28T20:16:58.070Z] >>> [apiv2][query] POST https://github.com/login/oauth/access_token [none]
+[debug] [2022-11-28T20:16:58.071Z] >>> [apiv2][body] POST https://github.com/login/oauth/access_token [stream]
+[debug] [2022-11-28T20:16:58.505Z] <<< [apiv2][status] POST https://github.com/login/oauth/access_token 200
+[debug] [2022-11-28T20:16:58.505Z] <<< [apiv2][body] POST https://github.com/login/oauth/access_token {"access_token":"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","token_type":"bearer","scope":"read:user,repo"}
+[debug] [2022-11-28T20:16:58.519Z] >>> [apiv2][query] GET https://api.github.com/user [none]
+[debug] [2022-11-28T20:16:58.960Z] <<< [apiv2][status] GET https://api.github.com/user 200
+[debug] [2022-11-28T20:16:58.960Z] <<< [apiv2][body] GET https://api.github.com/user {"login":"Rish94","id":73248554,"node_id":"MDQ6VXNlcjczMjQ4NTU0","avatar_url":"https://avatars.githubusercontent.com/u/73248554?v=4","gravatar_id":"","url":"https://api.github.com/users/Rish94","html_url":"https://github.com/Rish94","followers_url":"https://api.github.com/users/Rish94/followers","following_url":"https://api.github.com/users/Rish94/following{/other_user}","gists_url":"https://api.github.com/users/Rish94/gists{/gist_id}","starred_url":"https://api.github.com/users/Rish94/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/Rish94/subscriptions","organizations_url":"https://api.github.com/users/Rish94/orgs","repos_url":"https://api.github.com/users/Rish94/repos","events_url":"https://api.github.com/users/Rish94/events{/privacy}","received_events_url":"https://api.github.com/users/Rish94/received_events","type":"User","site_admin":false,"name":"RISHABH AGARWAL","company":null,"blog":"","location":"INDIA","email":null,"hireable":null,"bio":null,"twitter_username":null,"public_repos":37,"public_gists":0,"followers":1,"following":4,"created_at":"2020-10-21T17:17:11Z","updated_at":"2022-11-28T20:16:05Z","private_gists":0,"total_private_repos":7,"owned_private_repos":7,"disk_usage":1419510,"collaborators":0,"two_factor_authentication":false,"plan":{"name":"free","space":976562499,"collaborators":0,"private_repos":10000}}
+[info] 
+[info] +  Success! Logged into GitHub as Rish94 
+[info] 
+[debug] [2022-11-28T20:17:08.916Z] >>> [apiv2][query] GET https://api.github.com/repos/y/actions/secrets/public-key type=owner
+[debug] [2022-11-28T20:17:09.296Z] <<< [apiv2][status] GET https://api.github.com/repos/y/actions/secrets/public-key 404
+[debug] [2022-11-28T20:17:09.296Z] <<< [apiv2][body] GET https://api.github.com/repos/y/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
